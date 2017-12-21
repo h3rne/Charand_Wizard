@@ -1,0 +1,38 @@
+body {
+    font-family: "Verdana", Verdana, serif;
+}
+
+table, tr, td {
+   /*border: 1px solid black;*/
+   vertical-align: bottom;
+}
+
+.sm {
+  color: gray;
+}
+
+.smt {
+  text-align: right;
+  color: gray;
+}
+
+.smb {
+  font-weight: bold;
+}
+
+.lg {
+  font-size: 30px;
+  color: gray;
+}
+
+.lgb {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.lgbt {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: right;
+  color: gray;
+}
