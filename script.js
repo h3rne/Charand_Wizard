@@ -316,5 +316,5 @@ function rndBetween(min, max) {
 }
 
 addEventListener('load', function(e) {
-  test.innerHTML = 'Shiny :)';
+  test.innerHTML = 'Shiny :) - Click the title to generate a new character - !There is currently no Back button';
 });
